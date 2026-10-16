@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # HiCycle
 HiCycle helps you track and manage your cycling workouts effortlessly. It provides a clear, real-time workout panel where you can follow your speed, distance, average pace, heart rate, and elapsed time at a glance. With an easy-to-use control screen, HiCycle lets you pause, resume, or finish your workout anytime, so you can focus fully on your ride.
